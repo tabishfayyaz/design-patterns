@@ -6,6 +6,9 @@ You use this pattern if you need to dynamically change an algorithm used by an o
 ### Factory Pattern
 You use this pattern if you want to define the class of an object at runtime. It also allows you to encapsulate object creation code in one place.
 
+### Adapter Pattern
+You use this pattern if you want to allow an existing class to be used from another interface. It is often used to make existing classes work with others without modifying their source code.
+
 ### Credits
 Derek Banas [tutorials](https://www.youtube.com/playlist?list=PLF206E906175C7E07) were really helpful in learning and demonstrating these patterns.
 
