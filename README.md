@@ -11,6 +11,7 @@ You use this pattern if you want to define the class of an object at runtime. It
 ### Abstract Factory
 
 ### Singleton
+You use this pattern if you want to restrict instantiating only one object for a class e.g. any shared resource.
 
 ### Builder
 
