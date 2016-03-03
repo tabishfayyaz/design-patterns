@@ -47,11 +47,16 @@ You use this pattern if you want to allow an existing class to be used from anot
 ### Mediator
 
 ### Memento
+You use this pattern if you want to provide the ability to restore an object to different states quickly e.g. undo/redo
 
 ### Visitor
+You use this pattern if you want to perform the same action on many objects of different types. The main goal of the visitor pattern is to solve the Double Dispatch Problem. 
+
+*Double Dispatch Problem:* In polymorphism when the invocation of a virtual function is based *only* on the type of object being messaged and *not* also considering the type of object being passed in parameter. See *DemoDoubleDispatch.java*
 
 ### Credits
-Derek Banas [tutorials](https://www.youtube.com/playlist?list=PLF206E906175C7E07) were really helpful in learning and demonstrating these patterns.
+* Derek Banas [tutorials](https://www.youtube.com/playlist?list=PLF206E906175C7E07) 
+* [Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
 
 ### License
 Available under the MIT license. See the LICENSE file for more info.
