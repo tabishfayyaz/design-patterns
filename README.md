@@ -1,6 +1,6 @@
 Popular Object Oriented Design Patterns demonstrated in **Java**
 
-## Creational:
+## Creational
 
 ### Factory
 You use this pattern if you want to define the class of an object at runtime. It also allows you to encapsulate object creation code in one place.
@@ -14,7 +14,7 @@ You use this pattern if you want to restrict instantiating only one object for a
 
 ### Builder
 
-## Structural:
+## Structural
 
 ### Proxy
 You use this pattern when you want to provide a placeholder, extra layer of indirection or a wrapper around the real object e.g. 
@@ -37,7 +37,7 @@ You use this pattern if you want to allow an existing class to be used from anot
 
 ### Decorator
 
-## Behavioral:
+## Behavioral
 
 ### Strategy
 You use this pattern if you need to dynamically change an algorithm used by an object at run time. The pattern also allows you to eliminate code duplication. It abstracts away the behavior from super and subclasses.
